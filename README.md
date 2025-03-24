@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as fullstack web developer <br>📚 Studying at Saint Petersburg Electrotechnical University (ETU "LETI"), currently enrolled in the program "Informatics and Computer Engineering" with a specialization in Artificial Intelligence.<br>⚡I love long series
 
-#Repository Contents
+# Repository Contents
 
 Here you will find the lab works I have completed during my course. Each lab is organized in its own directory, and includes the following:
 
