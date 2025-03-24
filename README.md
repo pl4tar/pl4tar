@@ -2,17 +2,11 @@
 🔭 I’m currently working as fullstack web developer <br>📚 Studying at Saint Petersburg Electrotechnical University (ETU "LETI"), currently enrolled in the program "Informatics and Computer Engineering" with a specialization in Artificial Intelligence.<br>⚡I love long series
 
 # Repository Contents
-
 Here you will find the lab works I have completed during my course. Each lab is organized in its own directory, and includes the following:
 
 - Source code
 - Documentation
 - Any additional resources or files required to understand and run the lab work
-
-How to Use
-
-Feel free to browse through the directories and files to understand the work done. If you have any questions or suggestions, feel free to open an issue or contact me directly.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/platar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pl4tar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pl4tr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:platar.ant@yandex.ru) 
